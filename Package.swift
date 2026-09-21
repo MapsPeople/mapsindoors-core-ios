@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let mapsindoorsVersion = Version("4.20.0")
-let checksum = "c69cd6e598b88e087b2cd7b0102cea652a7c0695dd29588be5a97593189e7469"
+let mapsindoorsVersion = Version("4.21.0")
+let checksum = "7657280a0432c6ab74e11ca5a61888abb8a2fe4b30fc820e7f87237dd893d4ba"
 
 let package = Package(
     name: "MapsIndoorsCore",
